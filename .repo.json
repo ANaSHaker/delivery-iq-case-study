@@ -1,0 +1,17 @@
+{
+  "name": "delivery-iq-case-study",
+  "description": "Case study: Delivery IQ / Al Barq, the Flutter merchant app of an Iraqi delivery company. Excel bulk orders, live status via Socket.IO, settlement statements, Sentry. Last-mile logistics in your pocket.",
+  "topics": [
+    "flutter",
+    "case-study",
+    "logistics",
+    "delivery",
+    "bloc",
+    "socket-io",
+    "sentry",
+    "excel-import",
+    "iraq",
+    "rtl"
+  ],
+  "homepage": "https://play.google.com/store/apps/details?id=com.delivery.iq"
+}

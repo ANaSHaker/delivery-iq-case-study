@@ -1,0 +1,86 @@
+{
+ "outDir": "..",
+ "brand": {
+  "name": "Delivery IQ",
+  "tagline": "Merchant app for Al Barq, an Iraqi delivery company.",
+  "accent": "#E53935",
+  "accent2": "#F5B301",
+  "logo": "D:/shaker-github/_store/com.delivery.iq/icon.png"
+ },
+ "images": [
+  {
+   "type": "banner",
+   "file": "banner.png",
+   "kicker": "Case Study · Logistics · Iraq",
+   "screens": [
+    "D:/shaker-github/_store/com.delivery.iq/shot_03.png",
+    "D:/shaker-github/_store/com.delivery.iq/shot_01.png",
+    "D:/shaker-github/_store/com.delivery.iq/shot_05.png"
+   ],
+   "devices": [
+    "card",
+    "card",
+    "card"
+   ],
+   "subtitle": "Merchants create, track and settle delivery orders across all Iraqi governorates.",
+   "chips": [
+    "Flutter",
+    "Bloc / Cubit",
+    "Socket.IO"
+   ]
+  },
+  {
+   "type": "gallery",
+   "file": "screens-play.png",
+   "title": "Current release — Al Barq on Google Play",
+   "device": "card",
+   "cardRatio": 2.17,
+   "cols": 5,
+   "screens": [
+    "D:/shaker-github/_store/com.delivery.iq/shot_01.png",
+    "D:/shaker-github/_store/com.delivery.iq/shot_03.png",
+    "D:/shaker-github/_store/com.delivery.iq/shot_05.png",
+    "D:/shaker-github/_store/com.delivery.iq/shot_04.png",
+    "D:/shaker-github/_store/com.delivery.iq/shot_02.png"
+   ]
+  },
+  {
+   "type": "gallery",
+   "file": "screens-ios.png",
+   "title": "Delivery IQ on iOS — dashboard, status filters, KPIs, statistics",
+   "device": "iphone",
+   "cols": 4,
+   "width": 1400,
+   "screens": [
+    "D:/shaker-github/_store/ios_id_1568878714/ios_pad_01.png",
+    "D:/shaker-github/_store/ios_id_1568878714/ios_pad_02.png",
+    "D:/shaker-github/_store/ios_id_1568878714/ios_pad_03.png",
+    "D:/shaker-github/_store/ios_id_1568878714/ios_pad_05.png"
+   ]
+  },
+  {
+   "type": "feature",
+   "file": "feature-orders.png",
+   "kicker": "SIGNATURE FEATURE",
+   "title": "Order lifecycle, end to end",
+   "width": 1640,
+   "height": 820,
+   "css": ".iphone{--w:290px!important}.title{font-size:52px!important}",
+   "points": [
+    "Add orders manually or bulk-import from Excel",
+    "Live status: registered → with driver → delivered",
+    "Returns, replacements, postponed, address change",
+    "Filter by store, city, branch, status and date",
+    "Settlement statements with paid / unpaid state"
+   ],
+   "screens": [
+    "D:/shaker-github/_store/ios_id_1568878714/ios_pad_03.png",
+    "D:/shaker-github/_store/ios_id_1568878714/ios_pad_02.png"
+   ],
+   "devices": [
+    "iphone",
+    "iphone"
+   ]
+  }
+ ]
+}
